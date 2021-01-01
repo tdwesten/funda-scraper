@@ -1,0 +1,36 @@
+{
+  "name": "funda-scraper",
+  "version": "1.0.0",
+  "description": "Get a Telegram Message when there is a new house found.",
+  "main": "index.js",
+  "dependencies": {
+    "@types/cheerio": "^0.22.23",
+    "@types/express": "^4.16.0",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "dotenv": "^8.2.0",
+    "lowdb": "^1.0.0",
+    "node-telegram-bot-api": "^0.51.0",
+    "ts-node-dev": "^1.0.0-pre.30",
+    "typescript": "^3.1.1"
+  },
+  "devDependencies": {
+    "@types/lowdb": "^1.0.9",
+    "@types/node-telegram-bot-api": "^0.51.0"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "dev": "ts-node-dev --respawn --transpileOnly ./app/app.ts",
+    "prod": "tsc && node ./build/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdwesten/funda-scraper.git"
+  },
+  "author": "Thomas van der Westen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdwesten/funda-scraper/issues"
+  },
+  "homepage": "https://github.com/tdwesten/funda-scraper#readme"
+}

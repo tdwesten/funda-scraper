@@ -1,0 +1,36 @@
+{
+  "Houses": [
+    {
+      "Price": 225000,
+      "Id": 5801827,
+      "Adress": "Rameaustraat 1",
+      "Zipcode": "8031 KK Zwolle",
+      "Url": "https://www.funda.nl/koop/zwolle/huis-87610826-rameaustraat-1/",
+      "ImageUrl": "https://cloud.funda.nl/valentina_media/138/407/740_720x480.jpg"
+    },
+    {
+      "Price": 239000,
+      "Id": 5799660,
+      "Adress": "Larixstraat 32",
+      "Zipcode": "8021 VZ Zwolle",
+      "Url": "https://www.funda.nl/koop/zwolle/huis-87508669-larixstraat-32/",
+      "ImageUrl": "https://cloud.funda.nl/valentina_media/138/321/838_720x480.jpg"
+    },
+    {
+      "Price": 250000,
+      "Id": 5799517,
+      "Adress": "Tiendschuurstraat 129",
+      "Zipcode": "8043 XZ Zwolle",
+      "Url": "https://www.funda.nl/koop/zwolle/huis-41144970-tiendschuurstraat-129/",
+      "ImageUrl": "https://cloud.funda.nl/valentina_media/138/317/828_720x480.jpg"
+    },
+    {
+      "Price": 250000,
+      "Id": 5771959,
+      "Adress": "Scarlattistraat 31",
+      "Zipcode": "8031 JN Zwolle",
+      "Url": "https://www.funda.nl/koop/zwolle/huis-87580958-scarlattistraat-31/",
+      "ImageUrl": "https://cloud.funda.nl/valentina_media/137/416/240_720x480.jpg"
+    }
+  ]
+}

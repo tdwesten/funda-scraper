@@ -1,10 +1,10 @@
 require('dotenv').config({ path: __dirname + '/../.env' });
 
 import axios from 'axios';
-import { House } from './dto:house';
+import { House } from './dto.house';
 import lowdb from 'lowdb';
 import { default as FileAsync } from 'lowdb/adapters/FileAsync';
-import { HouseDataBase } from './dto:housedb';
+import { HouseDataBase } from './dto.housedb';
 import TelegramBot from 'node-telegram-bot-api';
 
 const cheerio = require('cheerio');

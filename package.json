@@ -12,6 +12,7 @@
     "lowdb": "^1.0.0",
     "node-telegram-bot-api": "^0.51.0",
     "ts-node-dev": "^1.0.0-pre.30",
+    "tsc": "^1.20150623.0",
     "typescript": "^3.1.1"
   },
   "devDependencies": {
